@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bubble Handoff Inspector"
+  short_description: "Build gated, dockable Bubble handoff inspectors"
+  default_prompt: "Use $bubble-handoff-inspector to add a URL-gated, dockable, read-only visual inspector with copyable Bubble handoff details."

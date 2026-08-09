@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Inspector Tab"
+  short_description: "Add responsive, token-aware live design tools"
+  default_prompt: "Use $add-design-inspector-tab to add a Figma-like Design tab with direct canvas editing, device previews, token audits, live states, accessibility, and handoff output."
