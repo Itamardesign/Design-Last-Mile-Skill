@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System Page"
+  short_description: "Build governed, inspector-linked design systems"
+  default_prompt: "Use $build-design-system-page to create a canonical, copyable design-system source and catalog connected to Inspect and Design tooling."
